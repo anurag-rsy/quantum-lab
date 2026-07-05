@@ -220,7 +220,7 @@ For each postulate, follow the same process:
 
 # Prerequisites
 
-Before studying this module, familiarity with the following topics is recommended:
+Before these modules, familiarity with the following topics is recommended:
 
 * Linear Algebra
 * Complex Numbers
