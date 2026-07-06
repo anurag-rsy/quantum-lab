@@ -10,7 +10,8 @@ A brief explanation of why quantum mechanics requires postulates.
 
 ### Postulate 1 : Quantum States
 
-Statement : Hilbert Space
+Statement : 
+Hilbert Space
 Hilbert space is generalization of Euclidean space. Euclidean geometry talks about 2 dimentional space and calculus three-dimensional space. Hilbert space is generalization from finite to infinite dimension. A Hilbert space is an abstract vector space, and it has the additional structure of an inner product that allows length and angle to be measured. Finally, Hilbert spaces are required to be complete, a property that stipulates the existence of enough limits in the space to allow the techniques of calculus to be used.
 
 Mathematical Form : 
