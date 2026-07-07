@@ -26,19 +26,35 @@ Example
 - Concept of Hilbert Space are used in partial differential equations, quantum mechanics and machine learning.
 
 Statement
-State Vector - State vector are the mathematical objects used to define the state of any physical system at a given point of time.
+State Vector - State vector are the mathematical objects used to define the state of any physical system at a given point of time. It is used in many field of mathematics like Control Systems, Quantum Mechanism and Astro Physics.
 
 Mathematical Form
+- In Control system state vector can be presented as x = [ position , velocity ]
+- In Quantum mechanics a state vector can be used to measure position of particle in wave function.
+- In Astro Physics it can be used to calculate tractory of the moving object. State vecor combines position (x,y,z) and velocity (ux, uy, uz)
+
+Explanation
+- In general, space vector defines the position of any object and trajectory it may follow.
+
+Statement
+Complex Vector Space - It is a Hilbert Space as an mathematical arean where all posible states of aphysical system live. Like State vectors using Dirac bra-ket notion as a "ket". Complex scaler as presented by (a+bi) and inner product by <bra|ket>.Dirac notation is being used in wuantum mechanis=cs to present quantum states. It is denoted by bra-ket.
+
+Mathematical Form
+
 
 Explanation
 
 Example
+
+
+
 
 ---
 
 ### Postulate 2 : Physical Observables
 
 Statement
+Observable - Any physical property that can be dynamically mesarued such as position, momentum, energy, spin
 
 Mathematical Form
 
