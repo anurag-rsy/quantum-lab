@@ -43,6 +43,10 @@ Statement
 Dirac Notation - Invented by Paul Dirac in 1939, this is a mathematical notation to present states as column ket $|\psi\rangle$ and its dual conjugate as row bra $\langle\phi|$
 
 Statement
+Basis Vector - A basis of vector V ={v1,v2,v3..} is combination of independent vector and spaning the space. Independent means no two vector can be presented by other. Spanning of the space means vector V can be expressed as combination of idenedent vectors.
+
+Statement
+Superposition - This postulate explains that a system can be in all possible states untill it is measured.
 
 ---
 
