@@ -39,15 +39,10 @@ Explanation
 Statement
 Complex Vector Space - It is a Hilbert Space as an mathematical arean where all posible states of aphysical system live. Like State vectors using Dirac bra-ket notion as a "ket". Complex scaler as presented by (a+bi) and inner product by <bra|ket>.Dirac notation is being used in wuantum mechanis=cs to present quantum states. It is denoted by bra-ket.
 
-Mathematical Form
+Statement
+Dirac Notation - Invented by Paul Dirac in 1939, this is a mathematical notation to present states as column ket $|\psi\rangle$ and its dual conjugate as row bra $\langle\phi|$
 
-
-Explanation
-
-Example
-
-
-
+Statement
 
 ---
 
