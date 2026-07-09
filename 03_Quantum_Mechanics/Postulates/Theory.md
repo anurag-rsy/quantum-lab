@@ -46,7 +46,13 @@ Statement
 Basis Vector - A basis of vector V ={v1,v2,v3..} is combination of independent vector and spaning the space. Independent means no two vector can be presented by other. Spanning of the space means vector V can be expressed as combination of idenedent vectors.
 
 Statement
-Superposition - This postulate explains that a system can be in all possible states untill it is measured.
+Superposition - This postulate explains that a system can be in all possible states untill it is measured. This gives mathematical presentation of all possible states.
+
+Examples
+In quantum communication qbit can be any of the possible states before measurment. In cryptography this concept is used. Plants use this concept in finding pathways in photosynthesis for better efficiency.
+
+Statement
+Normalization - Its a mathematical concept that says that total probability of finding an element in the universe is 1. It cannot be more than 1.
 
 ---
 
