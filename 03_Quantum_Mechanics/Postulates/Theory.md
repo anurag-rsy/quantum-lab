@@ -59,11 +59,15 @@ Normalization - Its a mathematical concept that says that total probability of f
 ### Postulate 2 : Physical Observables
 
 Statement
-Observable - Any physical property that can be dynamically mesarued such as position, momentum, energy, spin
+Observable - Any physical property that can be dynamically mesarued is called observables. In quantum mechanics observables can be position, momemtum, spin may be observables.
+Hermitian Operator - This is a linear operator which is equal to its own conjugate transpose. In quantum mechanics we denote every observable in  Hermitian.
 
-Mathematical Form
+Mathematical Form - An operator $\hat{A}$ is Hermitian if it satisfies the following condition for any two wave functions $\psi$ and $\phi$:
+$$\int \psi^* (\hat{A}\phi) \, dx = \int (\hat{A}\psi)^* \phi \, dx$$
+In the compact Dirac (bra-ket) notation, this is written as:
+$$\langle \psi | \hat{A} | \phi \rangle = \langle \hat{A}\psi | \phi \rangle$$
 
-Explanation
+Explanation - This means this operator can work on state to its right and to its left without changing the final result.
 
 Example
 
