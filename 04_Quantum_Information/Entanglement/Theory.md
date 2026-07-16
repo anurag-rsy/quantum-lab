@@ -1,1 +1,2 @@
-
+Quantum Entanglement - It is a phenomenon pf quantum particle where two particles are entangled, state of one particle defines the state of other particle no matter how vast the distance separating them. 
+Before measurement quantum particles are in superposition states, but first particle is measured the state of the other particle collapses to definite state. When particles are entangled they are not seperate they share a unified state.
