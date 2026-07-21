@@ -1,0 +1,1 @@
+Linear Algebra is a branch of mathematics used to solve problems involving linear equations and to model real-world phenomena. This branch includes concepts such as vectors, vector spaces, determinants, linear transformations, and eigenvalues.
