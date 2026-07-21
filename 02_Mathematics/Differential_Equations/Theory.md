@@ -1,0 +1,1 @@
+Differential equations are mathematical equations that involve an unknown function and one or more of its derivatives. They show the relationship between a function and the rate of change of its values. Differential equations help us model dynamic quantities whose values change continuously over time.
