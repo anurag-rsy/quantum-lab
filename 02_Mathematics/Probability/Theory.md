@@ -1,0 +1,1 @@
+Probability is a branch of mathematics that deals with the uncertainty of the occurrence of any event. A value of 0 represents impossibility, while 1 represents certainty. The theory is especially applied in quantum mechanics, particularly in concepts such as the wavefunction and superposition.
