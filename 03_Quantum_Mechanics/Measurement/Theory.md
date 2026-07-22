@@ -1,0 +1,1 @@
+Measurement in quantum mechanics is the process of obtaining information about the quantum state of a system, which probabilistically collapses its state according to the Born rule. The interaction of a quantum system with a classical system yields the collapse of quantum states into measurable observables. The Born rule provides the probabilistic outcome of the measurement.
